@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Implementing-Spring-cloud-gateway.iml" filepath="$PROJECT_DIR$/.idea/Implementing-Spring-cloud-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstmicroservice/microservice.iml" filepath="$PROJECT_DIR$/firstmicroservice/microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secondmicroservice/microservicetwo.iml" filepath="$PROJECT_DIR$/secondmicroservice/microservicetwo.iml" />
+    </modules>
+  </component>
+</project>
